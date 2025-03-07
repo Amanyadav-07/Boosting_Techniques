@@ -27,5 +27,5 @@ This repository contains **theoretical explanations** and **practical implementa
 
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/your-username/boosting-techniques.git
-cd boosting-techniques
+git clone (https://github.com/Amanyadav-07/Boosting_Techniques.git)
+cd boosting_techniques
